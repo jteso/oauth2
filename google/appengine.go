@@ -12,7 +12,7 @@ import (
 	"sync"
 	"time"
 
-	"golang.org/x/oauth2"
+	"github.com/jteso/oauth2"
 
 	"appengine"
 	"appengine/memcache"

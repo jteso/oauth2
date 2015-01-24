@@ -22,8 +22,8 @@ import (
 	"net/url"
 	"time"
 
-	"golang.org/x/oauth2"
-	"golang.org/x/oauth2/internal"
+	"github.com/jteso/oauth2"
+	"github.com/jteso/oauth2/internal"
 )
 
 var (
